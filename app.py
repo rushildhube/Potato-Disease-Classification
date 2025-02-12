@@ -7,7 +7,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the model
-model = tf.keras.models.load_model('D:\PROJECTS\Potato Disease Classification\model.keras')
+model = tf.keras.models.load_model('model.keras')
 class_names = ['Potato___Early_blight', 'Potato___Late_blight', 'Potato___healthy']
 BATCH_SIZE = 32
 IMAGE_SIZE = 256
