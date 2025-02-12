@@ -56,10 +56,7 @@ pip install matplotlib, seaborn
 ```
 ├── app.py                  # Flask application entry point
 ├── model.keras             # Pretrained model weights
-├── static/
-│   ├── css/                # Custom CSS styles
-│   ├── js/                 # JavaScript utilities
-│   └── uploads/            # Temporary storage for user uploads
+├── static/                 # Temporary storage for user uploads
 ├── templates/
 │   └── index.html          # Main UI template with Bootstrap
 ├── Training.ipynb          # Model training notebook
