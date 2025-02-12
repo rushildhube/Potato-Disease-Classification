@@ -3,7 +3,7 @@
 This project is a **Flask-based web application** that classifies **potato leaf diseases** using a **deep learning model trained with TensorFlow**.  
 
 #### **Purpose:**  
-The goal of this project is to assist farmers and researchers in identifying potato plant diseases early, enabling better crop management and yield improvement.  
+The goal of this project is to assist farmers and researchers in identifying potato plant diseases early, enabling better Potato management and yield improvement.  
 
 #### **How It Works:**  
 1. Users **upload an image** of a potato leaf through the web interface.  
@@ -26,7 +26,7 @@ This application integrates **Flask for the backend**, **Bootstrap for UI**, and
 ✅ **Supports Multiple Image Formats** – Accepts `.jpg`, `.jpeg`, and `.png` files.  
 ✅ **Jupyter Notebooks for Model Training and Testing** – Easily train and test new models.  
 ✅ **Secure File Handling** – Ensures only valid image files are processed.  
-✅ **Expandable and Customizable** – Can be modified to classify other crop diseases in the future.  
+✅ **Expandable and Customizable** – Can be modified to classify other Potato diseases in the future.  
 
 ### **3. Technology Used**  
 
@@ -80,10 +80,10 @@ Before running the project, make sure you have the following installed and ready
 First, download the project files by cloning the GitHub repository or manually downloading them.
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/crop-disease-classification.git
+git clone https://github.com/your-repo/Potato-Disease-Classification.git
 
 # Navigate to the project folder
-cd crop-disease-classification
+cd Potato-Disease-Classification
 ```
 
 ---
