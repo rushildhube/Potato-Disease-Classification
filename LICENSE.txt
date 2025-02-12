@@ -1,0 +1,40 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+Copyright [2024] [MediTrack]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+For the MediTrack medical app project:
+
+- MediTrack is a comprehensive health management application designed to empower users in monitoring and improving their overall well-being.
+
+- This application provides a range of features aimed at enhancing health awareness and facilitating personalized health management strategies. Users can track various health metrics, such as medication intake, vital signs, physical activity, dietary habits, sleep patterns, and more.
+
+- MediTrack incorporates advanced data visualization tools to present health information in an intuitive and actionable manner. Users can analyze trends, set goals, and receive personalized insights to support informed decision-making regarding their health.
+
+- The app includes reminders and notifications to help users adhere to medication schedules, doctor appointments, and other health-related tasks. Additionally, MediTrack allows users to securely store and access medical records, insurance information, and emergency contacts for quick reference.
+
+- While MediTrack aims to assist users in managing their health effectively, it does not provide medical advice, diagnosis, or treatment. Users should consult with qualified healthcare professionals for personalized medical recommendations and interventions.
+
+- The developers and contributors of MediTrack are committed to protecting user privacy and data security. The app employs industry-standard encryption and security protocols to safeguard sensitive health information. User data is stored locally on the device and is not shared with third parties without explicit consent.
+
+- By using the MediTrack app, users agree to abide by the terms and conditions outlined in the Apache License, Version 2.0. The license grants users the freedom to use, modify, and distribute the software while ensuring compliance with the specified terms.
+
+- For inquiries, feedback, or support regarding the MediTrack app, please contact [Your Contact Information]. We value user input and are dedicated to continuously improving the app to meet the evolving needs of our community.
+
+Thank you for choosing MediTrack as your trusted health companion. Together, let's journey towards a healthier and happier life.
+
+[MediTrack]
+[rushildhube.1305@gmail.com]
